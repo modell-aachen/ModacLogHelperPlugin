@@ -1,0 +1,10 @@
+{
+    "as_file": "Export as file",
+    "export_description": "Here you can export the Q.wiki logs in an encrypted file.\nWith this data you can help our service to solve the issue.",
+    "export_logs": "Export logs",
+    "logs_end": "Until",
+    "logs_start": "Export logs from",
+    "service_data": "Log Data",
+    "use_info_logs": "Exportieren info-level",
+    "dummy": "dummy"
+}

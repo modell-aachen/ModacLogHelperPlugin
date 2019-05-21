@@ -1,0 +1,46 @@
+{
+  "name": "ModacLogHelperPlugin",
+  "version": "1.0.0",
+  "description": "Helper for logs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/modell-aachen/ModacLogHelperPlugin"
+  },
+  "scripts": {
+    "postinstall": "yarn build",
+    "build": "vue-cli-service build",
+    "test:unit": "vue-cli-service test:unit",
+    "lint": "vue-cli-service lint dev frontend-tests"
+  },
+  "author": "Modell Aachen GmbH",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@modac/eslint-config": "^0.1.2",
+    "@modac/jest-config": "^0.1.0",
+    "@modac/tsconfig": "^0.1.0",
+    "@types/jest": "^23.1.4",
+    "@typescript-eslint/eslint-plugin": "^1.9.0",
+    "@vue/cli-plugin-babel": "^3.7.0",
+    "@vue/cli-plugin-eslint": "^3.7.0",
+    "@vue/cli-plugin-typescript": "^3.7.0",
+    "@vue/cli-plugin-unit-jest": "^3.7.0",
+    "@vue/cli-service": "^3.7.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "@vue/eslint-config-typescript": "^4.0.0",
+    "VueJSPlugin": "git://github.com/modell-aachen/VueJSPlugin.git#9288b18fa291c3019fe37a14e0dc27b674681947",
+    "babel-eslint": "^10.0.1",
+    "compression-webpack-plugin": "^2.0.0",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.2.2",
+    "foundation-sites": "^6.5.3",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^7.1.0",
+    "sass-rem": "^2.0.1",
+    "ts-jest": "^23.6.0",
+    "typescript": "^3.4.5",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "dependencies": {},
+  "keywords": []
+}

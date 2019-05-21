@@ -1,0 +1,12 @@
+{
+    "encoded_logs": "Verschlüsselte Log-Daten",
+    "files_not_supported": "Ihr Browser unterstützt leider nicht die benötigten Datei-Operationen",
+    "log_user": "Nutzer (wird aus Rohdaten übernommen)",
+    "logs_decoder_explain": "Hier können Sie die verschlüsselten Log-Dateien einspielen und anzeigen lassen.\nFügen Sie dafür den verschlüssselten String ein oder spielen Sie direkt eine .qlog Datei ein.",
+    "logs_decoder_heading": "Log-Dateien anzeigen",
+    "password": "Passwort",
+    "raw_or_file": "Rohdaten String oder Datei",
+    "show_logs": "Logs anzeigen",
+    "user_data": "Nutzerdaten",
+    "dummy": "dummy"
+}

@@ -1,0 +1,10 @@
+{
+    "as_file": "Als Datei exportieren",
+    "export_description": "Hier können Sie die Q.wiki Logs in eine verschlüsselte Datei exportieren.\nMit diesen Daten können Sie den Service dabei unterstützen, das Problem zu beheben.",
+    "export_logs": "Logs exportieren",
+    "logs_end": "Bis",
+    "logs_start": "Logs exportieren vom",
+    "service_data": "Log Daten",
+    "use_info_logs": "Info-Level exportieren",
+    "dummy": "dummy"
+}

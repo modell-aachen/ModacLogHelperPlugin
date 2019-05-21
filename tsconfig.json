@@ -1,0 +1,16 @@
+{
+  "extends": "@modac/tsconfig",
+  "compilerOptions": {
+    "baseUrl": ".",
+  },
+  "include": [
+    "dev/**/*.ts",
+    "dev/**/*.tsx",
+    "dev/**/*.vue",
+    "frontend-tests/**/*.ts",
+    "frontend-tests/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

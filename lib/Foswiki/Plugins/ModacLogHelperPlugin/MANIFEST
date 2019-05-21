@@ -1,0 +1,11 @@
+!noci
+data/System/ModacLogHelperPlugin.txt 0644 Documentation page
+lib/Foswiki/Plugins/ModacLogHelperPlugin.pm 0444 Perl module
+lib/Foswiki/Plugins/ModacLogHelperPlugin/Config.spec 0444 Configuration
+pub/System/ModacLogHelperPlugin/decoder.js 0644
+pub/System/ModacLogHelperPlugin/decoder.js.gz 0644
+pub/System/ModacLogHelperPlugin/decoder.js.map 0644
+pub/System/ModacLogHelperPlugin/exporter.js 0644
+pub/System/ModacLogHelperPlugin/exporter.js.gz 0644
+pub/System/ModacLogHelperPlugin/exporter.js.map 0644
+

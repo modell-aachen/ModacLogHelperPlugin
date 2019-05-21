@@ -1,0 +1,13 @@
+{
+    "encoded_logs": "Encrypted log-data",
+    "files_not_supported": "Unfortunately your browser does not support the required file operationsi",
+    "log_user": "User (will be taken from raw data)",
+    "logs_decoder_explain": "Here you can import the encrypted log-files and display them.\nPaste the encrypted string or import the .qlog file directly.",
+    "logs_decoder_heading": "Display log-files",
+    "password": "Password",
+    "raw_or_file": "Raw data string or file",
+    "show_logs": "Display logs",
+    "user_data": "User data",
+    "dummy": "dummy"
+}
+
